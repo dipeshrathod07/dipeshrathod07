@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipeshrathod07
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA and Spring
+- 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rathoddipesh221@gmail.com
 - ⚡ Fun fact: Engineers are the future of world
