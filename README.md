@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DSA 
 - 📫 How to reach me rathoddipesh221@gmail.com
-- ⚡ Fun fact: Engineers are the future of world
+- ⚡ Engineers are the future of world
 
 <!---
 dipeshrathod07/dipeshrathod07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
